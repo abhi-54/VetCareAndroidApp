@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_string1"><![CDATA[
+        <ul>
+            <li>Swipe from left to view the categories.</li>
+            <li>After selecting the Animal Category, type in symptoms or select it from the list.</li>
+            <li>Then it displays: Disease name, more Symptoms, Treatment and Vaccination.</li>
+        </ul>
+    ]]></string>
+</resources>

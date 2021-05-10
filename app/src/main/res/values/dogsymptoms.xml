@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dogsymptoms1"><![CDATA[
+        <h3>Heartworm: </h3>
+        <p>Heartworm is a parasitic worm that lives in the heart and pulmonary arteries of an infected animal. The worms travel through the bloodstream—harming
+            arteries and vital organs as they go—ultimately completing their journey to the vessels of the lung and the heart chamber about six months after the
+            initial infection. Several hundred worms can live in one dog for five to seven years.
+        </p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Labored breathing</li>
+            <li>Coughing, vomiting</li>
+            <li>Weight loss, Listlessness and Fatigue after only moderate exercise</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Heartworm is easily preventable with an inexpensive, chewable pill or topical medication available as a vet’s prescription.</li>
+            <li>The pills or topical are usually administered monthly and can be given to dogs under 6 months of age without a blood test.</li>
+            <li>Older animals must be screened for the disease prior to starting medication.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">The most common course of treatment is a series of injections of drugs called adulticides into the dogs’ muscle.
+                This cure has a high success rate and usually requires hospitalization.</li>
+            <li>All treatment protocols require several weeks of exercise restriction after treatment and are not without risk.</li>
+        </ul>
+    ]]></string>
+    <string name="dogsymptoms2"><![CDATA[
+        <h3>Ringworm: </h3>
+        <p>Although the name suggests otherwise, ringworm isn’t caused by a worm at all—but a fungus that can infect the skin, hair and nails.
+            This highly contagious disease can lead to patchy areas of hair loss on a dog and can spread to other animals—and to humans, too.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Skin lesions appear on the head, ears, paws and forelimbs.</li>
+            <li>Patchy, crusted, circular bald spots that sometimes look red in the center</li>
+            <li>It’s also possible for a pet to carry the fungus and not show any symptoms whatsoever.</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Cleanliness is the key. To avoid this fungal infection dog should be cleaned regularly.</li>
+        </ul>
+
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">A veterinarian may prescribe a shampoo or ointment that contains a special medication to kill the fungus.</li>
+            <li>In some cases, oral medications are necessary. It is important to treat your dog for as long as recommended by your veterinarian.</li>
+        </ul>
+        ]]></string>
+    <string name="dogsymptoms3"><![CDATA[
+        <h3>Rabies: </h3>
+        <p>Rabies is a viral disease that affects the brain and spinal cord of all mammals, including cats, dogs and humans.
+            There’s good reason that the very word “rabies” evokes fear in people—once symptoms appear, rabies is close to 100% fatal.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Changes in behavior (including aggression, restlessness and lethargy)</li>
+            <li>Increased vocalization, Hiding in dark places</li>
+            <li>Loss of appetite</li>
+            <li>Weakness</li>
+            <li>Disorientation; Attacking other animals, humans and even inanimate objects</li>
+            <li>Paralysis</li>
+            <li>Seizures</li>
+            <li>Sudden death</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Vaccination is the key. Vaccinating your dog doesn\'t just protect him from rabies—it also protects your dog if he bites someone.</li>
+            <li>Avoiding contact with wild animals is also necessary to prevention.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">The direct fluorescent antibody test is the most accurate test for diagnosis, but it can only be performed after the death of the animal.</li>
+            <li>A dog who is up to date with his vaccinations and who has been bitten by a possibly rabid animal should also be given a rabies booster vaccine immediately and kept under observation</li>
+            <li>There is no treatment or cure for rabies once symptoms appear. The disease results in fatality.</li>
+        </ul>
+        ]]></string>
+</resources>

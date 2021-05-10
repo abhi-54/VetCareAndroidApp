@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cattlesymptoms1">
+        <![CDATA[
+        <h3>Foot & Mouth Disease (FMD): </h3>
+        <p>The foot-and-mouth disease is a highly communicable disease. It is characterized by fever, formation of vesicles and blisters in the mouth, udder, teats and on the skin between
+            the toes and above the hoofs. Animals recovered from the disease present a characteristically rough coat and deformation of the hoof.
+            In India, the disease is widespread and assumes a position of importance in livestock industry. The disease spreads by direct contact or indirectly through infected water,
+            manure, hay and pastures. It is also conveyed by cattle attendants. It is known to spread through recovered animals, field rats, porcupines and birds.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Fever around 40 degree Celcius.</li>
+            <li>Ropes of stingy saliva hangs from mouth.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Antiseptics can be applied externally to heal the ulcers and it can also help in warding off attacks by flies.</li>
+        </ul>
+        <b>Vaccination: </b>FMD Vaccine (FUTVAC)
+             ]]>
+    </string>
+    <string name="cattlesymptoms2"><![CDATA[
+        <body style="text-align: justify;">
+        <h3>Anthrax: </h3>
+        <p>Anhrax, a highly infectious and fatal disease of cattle, is caused by a relatively large spore-forming rectangular shaped bacterium called Bacillus anthracis.
+            Anthrax causes acute mortality in ruminants. The bacteria produce extremely potent toxins which are responsible for the ill effects.
+            Signs of the illness usually appear 3 to 7 days after the spores are swallowed or inhaled. Once signs begin in animals, they usually die within two days.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;"> Difficulty breathing - This usually occurs over a period of 24 hours.</li>
+            <li> High Temperature</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;"> Due to the acute nature of the disease resulting in sudden death, treatment is usually not possible.</li>
+            <li> Prevention can be the only treatment. Regular annual vaccination of animals should be done.</li>
+        </ul>
+        <b>Vaccination: </b>Anthrax Spore Vaccine
+        </body>
+    ]]></string>
+    <string name="cattlesymptoms3"><![CDATA[
+        <h3>BQ (Black Quarter): </h3>
+        <p>An acute disease of cattle characterized by swelling in heavy muscles. Contaminated pasture appears to be major source of infection.
+            Healthy animals in the age group 6 months to 2 years are generally affected. Animal dies within 24-48 hours after appearance of symptoms.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Sudden high  fever (41ºC-43ºC) and the animal stops eating and ruminating.</li>
+            <li>Swelling (hot) affects shoulders, chest and neck. </li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Vaccinate all animals which are 6 months and above of age annually before the on­set of monsoon in endemic areas.</li>
+            <li>Sprinkle lime over carcass at the time of burial.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Treatment may be effective in initial stages of infection. However in most cases treatment is not worth it.</li>
+        </ul>
+        <b>Vaccination: BQ Vaccine</b>
+    ]]></string>
+    <string name="cattlesymptoms4"><![CDATA[
+        <h3>Rabies: </h3>
+        <p>A bite from an infected wild animal or even a dog, such as a fox or raccoon, is a common method of infection in cattle. Saliva is the main method of transmission of the virus
+            being shed through infected cattle and spreading through the body via the bloodstream. It travels to the spinal cord where it can incubate for 3-12 weeks.
+            From the spine the virus moves into the brain, at which point clinical symptoms of rabies often appear in cattle. </p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Cattle look very alert, aggresive and excited.</li>
+            <li>Cattle make different sounds very frequently.</li>
+            <li>Milk Production decreases rapidly due to lack of appetite and difficulty in swallowing.</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">By limiting the number of wild animals carrying the virus and the chance that those animals will come in contact with pasture and farmland,
+                the likelihood of rabies transmission can be reduced. </li>
+            <li>Number of dogs or cats can also be limited away from the cattleshed.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Leaves of chirchra (Achyranthes aspera) 100gm and onion 50 gm are ground well and smeared over the bitten place.</li>
+            <li>The extract of these ingredients is administered orally twice in a day.</li>
+        </ul>
+        <b>Vaccination: </b>NOBIVAC® Rabies Vaccine
+    ]]></string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="doctor1"><![CDATA[
+        <p><b>Name:</b> Dr. Suresh Ghule</p>
+        <p><b>Contact No.</b>: 9850547504</p>
+        <p><b>Email:</b> sureshghule@gmail.com</p>
+        <p>Class 3, Supervisor at Panchayat Samiti, Sangamner</p>
+    ]]></string>
+    <string name="doctor2"><![CDATA[
+        <p style="border: 1px solid black;"><b>Name:</b> Dr. Ghodke</p>
+        <p><b>Contact No.:</b> 9423388564</p>
+        <p><b>Email:</b> ravindraghodke@gmail.com</p>
+        <p>Class 2, Supervisor at Panchayat Samiti, Sangamner</p>
+    ]]></string>
+</resources>

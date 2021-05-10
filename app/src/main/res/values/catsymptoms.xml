@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="catsymptoms1"><![CDATA[
+        <h3>Cancer: </h3>
+        <p>Cancer is a “multifactorial” disease, which means it has no known single cause.
+            Squamous cell carcinoma of the ear, eyelid or nose is a skin cancer caused by repeated exposure to the sun.
+            Lymphosarcoma or lymphoma (LSA), is one of the most common type of cancer in cats. Some reports estimate that 30% of all reported cat cancers are due to LSA.
+        </p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Lumps </li>
+            <li>Swelling</li>
+            <li>Persistent sores or skin infections, scaly and/or red skin patches</li>
+            <li>Abnormal discharge from any part of the body</li>
+            <li>Bad breath, difficulty breathing, urinating or defecating</li>
+            <li>Weight loss, decreased or loss of appetite</li>
+            <li>Sudden lameness, change in behavior</li>
+            <li>Diarrhea or vomiting</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Keeping your cat indoors will protect her from certain skin cancers caused by repeated sun exposure and sunburn.</li>
+            <li>Breast cancer is a common cancer for cats, but it can be avoided by having your cat spayed before her first heat cycle.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Common treatments include surgery, chemotherapy, radiation and immunotherapy or a combination of therapies.</li>
+            <li>Good nutrition and loving care can greatly enhance your cat’s quality of life.</li>
+        </ul>
+    ]]></string>
+    <string name="catsymptoms2"><![CDATA[
+        <h3>Feline Leukemia Virus (FelV): </h3>
+        <p>First discovered in the 1960s, feline leukemia virus is a transmittable RNA retrovirus that can severely inhibit a cat’s immune system.
+            It is one of the most commonly diagnosed causes of disease and death in domestic cats. Because the virus doesn’t always manifest symptoms right away,
+            any new cat entering a household—and any sick cat—should be tested for FeLV.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Loss of appetite and weight loss, changes in behavior, lethargy</li>
+            <li>Pale or inflamed gums, poor coat condition</li>
+            <li>Respiratory distress, upper respiratory infections</li>
+            <li>Vision or other eye problems</li>
+            <li>Chronic skin disease, seizures</li>
+            <li>Diarrhea and vomiting, jaundice</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">There is a vaccine available for cats who are at risk of contracting FeLV. Like all vaccines,
+                there are risks involved in vaccination, and the vaccine is not a 100% guarantee against infection.</li>
+            <li>As with any infectious disease, the best prevention is eliminating sources of exposure.
+                Routine FeLV testing and keeping your cat indoors and away from cats whose FeLV status is not known remain the best way to prevent your cat from becoming infected.</li>
+        </ul>
+
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Feed your cat a nutritionally balanced diet, one free of raw meat, eggs and unpasteurized dairy products.</li>
+            <li>Provide a quiet place for your cat to rest indoors and away from other cats who could promote disease.</li>
+            <li>Sadly there is no cure for FeLV, and it is estimated that less than 20% of clinically infected cats survive more than three years of active infection.</li>
+        </ul>
+    ]]></string>
+    <string name="catsymptoms3"><![CDATA[
+        <h3>Rabies: </h3>
+        <p>Rabies is a viral disease that affects the brain and spinal cord of all mammals, including cats, dogs and humans. This preventable disease has been reported in every state except Hawaii.
+            There’s good reason that the very word “rabies” evokes fear in people—once symptoms appear, rabies is close to 100% fatal.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Changes in behavior (including aggression, restlessness and lethargy)</li>
+            <li>Increased vocalization</li>
+            <li>Loss of appetite</li>
+            <li>Weakness</li>
+            <li>Disorientation</li>
+            <li>Paralysis</li>
+            <li>Seizures</li>
+            <li>Sudden death</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Vaccination is the key.</li>
+            <li>Vaccinating your cat doesn\'t just protect her from rabies—it also protects your cat if she bites someone.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">The direct fluorescent antibody test is the most accurate test for diagnosis, but it can only be performed after the death of the animal.</li>
+            <li>There is no treatment or cure for rabies once symptoms appear. The disease results in fatality.</li>
+        </ul>
+    ]]></string>
+</resources>

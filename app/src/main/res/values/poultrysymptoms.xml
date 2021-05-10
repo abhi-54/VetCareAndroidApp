@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="poultrysymptoms1"><![CDATA[
+        <h3>Avian Influenza: </h3>
+        <p>Avian influenza is categorized as mild or highly pathogenic. It is a viral disease. Wild waterfowl and shorebirds are often asymptomatic carriers.
+            Low pathogenicity strains typically cause respiratory signs. High pathogenicity strains may cause widespread organ failure and sudden, high mortality.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">The mild form produces loss of appetite, respiratory distress, diarrhea, transient drops in egg production.</li>
+            <li>The highly pathogenic form produces facial swelling, dehydration with respiratory distress.</li>
+            <li>Dark red/white spots develop in the legs and of chickens.</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Prevention is by practice of exclusion biosecurity strategies and vaccination.</li>
+            <li>Quarantine, depopulation and eradication of virulent form is mandated to avoid spreading of the virus.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Antiviral treatments are not approved for poultry.</li>
+            <li>Although with the mild form of the disease, good husbandry, proper nutrition, and broad spectrum antibiotics may reduce losses from secondary infections.</li>
+        </ul>
+        <b>Vaccination: </b>CEVAC® FLU H9 K Vaccine
+    ]]></string>
+    <string name="poultrysymptoms2"><![CDATA[
+        <h3>Newcastle Disease: </h3>
+        <p>Newcastle disease virus is a single-stranded, non-segmented enveloped RNA virus. Incubation period is 2-15 days. Newcastle disease is characterized by the following sudden symptoms: </p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Paralysis</li>
+            <li>Trembling and Gasping</li>
+            <li>Twisting of the neck</li>
+            <li>Watery discharge from nostrils.</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Vaccination at day of age in the hatchery using a course spray machine. </li>
+        </ul>
+
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Antibiotics can be given for 3-5 days to prevent secondary bacterial infections.</li>
+            <li>Increasing the brooding temperature 5°F may help reduce losses</li>
+        </ul>
+        <b>Vaccination: </b>Newcastle Disease (LaSota Strain) Vaccine
+    ]]></string>
+    <string name="poultrysymptoms3"><![CDATA[
+        <h3>Marek\'s Disease: </h3>
+        <p>Marek\'s disease is a Herpes virus infection of chickens.
+            The route of infection is usually respiratory and the disease is highly contagious being spread by infective feather-follicle dander.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Paralysis of legs, wings and neck.</li>
+            <li>Loss of weight.</li>
+            <li>Grey iris or irregular pupil.</li>
+            <li>Vision impairment.</li>
+            <li>Skin around feather follicles raised and roughened.</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">It is common practice to use combinations of the different vaccine types
+                in an effort to broaden the protection achieved.</li>
+            <li>Genetics can help by increasing the frequency of the B21 gene that confers increased resistance to Marek\'s disease challenge.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">No specific treatment.</li>
+        </ul>
+        <b>Vaccination: </b>Marek\'s Disease Vaccine (HVT)
+    ]]></string>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sheepgoatsymptoms1"><![CDATA[
+        <h3>PPR: </h3>
+        <p>PPR (Peste des petits ruminants) is the most viral disease of goat capable of heavy mortality and commonly called as goat plague. Secretions and excretions of sick animals are the sources of infection.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">In acute form, there is sudden onset of fever with rectal temperature of at least 40°- 41°C</li>
+            <li>Goats show dullness, sneezing, serous discharge from the eyes and nostrils</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Immediate isolation of affected goats from clinically healthy goats is most importance measure in controlling the spread of infection.</li>
+        </ul>
+        <b>Vaccination: </b>Live PPR Vaccine
+    ]]></string>
+    <string name="sheepgoatsymptoms2"><![CDATA[
+        <h3>Sheep-Pox: </h3>
+        <p>Sheep-pox is a highly contagious disease. It causes a mortality of 20 to 50 per cent in animals below the age of 6 months, and causes damage to the wool and skin in adults.</p>
+
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">The disease is characterized by high fever, and symptoms of pneumonia.</li>
+            <li>Skin lesions appear particularly in parts free from wool, notably around the eyes, inner side of the thigh, and under surface of the tail.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">The ulcers on the skin should be washed with potassium permanganate lotion and dusted with boric acid, and strict hygienic measures should be adopted.</li>
+            <li>Nursing is more important than medication for the young ones. Affected sheeps should be kept on soft diet.</li>
+        </ul>
+    ]]></string>
+    <string name="sheepgoatsymptoms3"><![CDATA[
+        <h3>Tetanus: </h3>
+        <p>Infection of wounds by bacterium Clostridium tetani results in tetanus when the bacterium produces its potent toxin.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Muscle stiffness, unsteady gait, drooping eyelids, changed voice, erect ears and tail and inability to eat or drink. </li>
+            <li>Death occurs from respiratory paralysis and suffocation.</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Annual vaccination is recommended for all goats.</li>
+            <li>Tools or equipments which may result into wound should be kept away from the shelter.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">The wound or infection site should be opened to the air and infiltrated with penicillin.
+                The area can be infiltrated with tetanus antitoxin before the wound-cleansing process is begun to reduce the chance that more preexisting toxin will be absorbed in the tissue.</li>
+        </ul>
+        <b>Vaccination: </b>CDT(also know as CD&T) Vaccine
+    ]]></string>
+    <string name="sheepgoatsymptoms4"><![CDATA[
+        <h3>Footrot: </h3>
+        <p>Footrot is a contagious infection of the feet characterized by inflammation of the skin-horn junction, under-running of the horn, severe lameness.
+            Footrot in sheeps and goats is caused by a large bacterium <i>(Bacteroides nodosus).</i>
+        </p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Moist, swollen skin which later on discharges foul smell from lesion.</li>
+            <li>Severe lameness, reduced feed intake, weight gain. Animal may die of starvation.</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">Check animals for foot lesions periodically.</li>
+            <li>Trim hooves as needed.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Isolate affected animals for treatment and trim hooves.</li>
+            <li>Treat the feet with a footbath solution of 16 percent copper sulfate or zinc sulfate. Animals must stand in the zinc or copper sulfate solution to allow time for absorption into the hoof wall.</li>
+        </ul>
+    ]]></string>
+    <string name="sheepgoatsymptoms5"><![CDATA[
+        <h3>Scaby Mouth: </h3>
+        <p>Scabby mouth is a viral disease of sheep and goats that causes scabs and pustules, usually around the mouth and face of affected animals.
+            It is also known as contagious pustular dermatitis, contagious ecthyma or orf.The scabs shed from infected sheep onto pasture and in yards can be infectious to other sheep for many years.
+            Some sheep may also carry the virus and infect other sheep.</p>
+        <b>Symptoms: </b>
+        <ul>
+            <li style="margin-top: -10px;">Raised scabs with a red ulcerated area underneath the scab around the lips, muzzle, nostrils, eyes, feet, lower leg, anus, vulva, udder, scrotum and pizzle.</li>
+        </ul>
+        <b>Prevention: </b>
+        <ul>
+            <li style="margin-top: -10px;">While animals infected with scabby mouth usually recover uneventfully, it is particularly important to ensure animals being supplied for export do not have scabby mouth.</li>
+        </ul>
+        <b>Treatment: </b>
+        <ul>
+            <li style="margin-top: -10px;">Generally affected animals recover spontaneously with scabs healing in about 3–4 weeks.</li>
+        </ul>
+    ]]></string>
+</resources>
